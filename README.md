@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSkrzypczak&langs_count=10&theme=nord&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=XSkrzypczakR&show_icons=true&theme=nord&include_all_commits=true)]" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=XSkrzypczak&show_icons=true&theme=nord&include_all_commits=true)]" />
 <!--
 **XSkrzypczak/XSkrzypczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
