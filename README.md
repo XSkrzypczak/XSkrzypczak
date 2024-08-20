@@ -1,17 +1,14 @@
-### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSkrzypczak&langs_count=10&theme=nord&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=XSkrzypczak&show_icons=true&theme=nord&include_all_commits=true)]" />
-<!--
-**XSkrzypczak/XSkrzypczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Welcome to my Profile** 
 
-Here are some ideas to get you started:
+```SWIFT
+struct XSkrzypczak {
+  let name = "Mikolaj Skrzypczak"
+  let nicknames = ["Skrzypczuk", "XSkrzypczak"]
+  let pronouns = "he/him"
+  let country: Country = "Poland"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  let spokenLanguages: [Languages] = [.Polish, .English]
+
+  let programmingLanguages = ["Swift", "Lua", "C#"]
+}
+```
