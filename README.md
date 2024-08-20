@@ -1,4 +1,4 @@
-# **Welcome to my Profile** 
+# **Welcome to my Profile!** 
 
 ```SWIFT
 struct XSkrzypczak {
@@ -17,6 +17,5 @@ struct XSkrzypczak {
   //Contact me at:
   let telegram = "t.me/skrzypczuk"
   let discord = "Skrzypczuk"
-
 }
 ```
