@@ -12,7 +12,7 @@ struct XSkrzypczak {
 
   let spokenLanguages: [Languages] = [.Polish, .English]
 
-  let programmingLanguages = ["Swift", "Lua", "C#"]
+  let programmingLanguages = ["Swift", "C#"]
 
   //Contact me at:
   let telegram = "t.me/skrzypczuk"
