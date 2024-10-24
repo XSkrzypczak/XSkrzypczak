@@ -1,7 +1,6 @@
 # 💫 About Me:
 ```SWIFT
 struct XSkrzypczak {
-  //My details
   let name = "Mikolaj Skrzypczak"
   let nicknames = ["Skrzypczuk", "XSkrzypczak"]
   let pronouns = "he/him"
@@ -11,7 +10,6 @@ struct XSkrzypczak {
 
   let spokenLanguages: [Languages] = [.Polish, .English]
 
-  //Contact me at:
   let telegram = "t.me/skrzypczuk"
   let discord = "Skrzypczuk"
 }
